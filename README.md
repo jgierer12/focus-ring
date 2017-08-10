@@ -19,9 +19,6 @@
 
 - [Install](#install)
 - [Usage](#usage)
-- [Examples & Demos](#examples--demos)
-- [API](#api)
-- [Contribute](#contribute)
 - [License](#license)
 
 ## Install
