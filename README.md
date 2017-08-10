@@ -42,7 +42,7 @@ const focusRing = require('focus-ring');
 The [UMD](https://github.com/umdjs/umd) build is also available on [unpkg](https://unpkg.com):
 
 ```html
-<script src="https://unpkg.co/focus-ring"></script>
+<script src="https://unpkg.com/focus-ring"></script>
 ```
 
 You can find the library on `window.focusRing`.
