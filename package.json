@@ -4,6 +4,9 @@
 	"description": "Detect if a focus ring should be displayed",
 	"module": "dist/index.es.js",
 	"main": "dist/index.js",
+	"files": [
+		"dist"
+	],
 	"scripts": {
 		"bump": "standard-version",
 		"test:lint": "eslint src",
